@@ -19,7 +19,8 @@
   "browser": "dist/browser/ts-geojson-path-finder.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "dev": "rollup -c -w",
